@@ -4,7 +4,7 @@
 
 <br/>
 
-Culled from https://cryptomarketpool.com/hotel-and-vending-solidity-smart-contract/.
+Culled from https://cryptomarketpool.com/getting-started-with-solidity/.
 
 ##
 

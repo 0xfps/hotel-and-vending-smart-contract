@@ -1,0 +1,15 @@
+{
+  "contracts": {
+    "HAV": "5155fa34e9b6aaff9e4fc9c79162d435bac81663"
+  },
+  "tests": {
+    "tests/test_hotel.py": {
+      "coverage": false,
+      "isolated": false,
+      "results": "...",
+      "sha1": "c09f2a2ad91ad6ee6c3a53483215993e644efbd9",
+      "txhash": []
+    }
+  },
+  "tx": {}
+}
